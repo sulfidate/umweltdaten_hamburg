@@ -57,6 +57,6 @@ MIT License – feel free to use, adapt and build upon it.
 
 ## 🙋‍♀️ Kontakt
 
-Projekt von [Dein Name]  
-Fragen oder Feedback? Gerne per [GitHub Issues](https://github.com/deinuser/repo/issues) oder via E-Mail: [dein.email@example.com]
+Projekt von [Marcus Krause aka sulfidate.rockstar]  
+Fragen oder Feedback? Gerne per [GitHub Issues](https://github.com/sulfidate/repo/issues) oder via E-Mail: [dev@sulfidate.rocks]
 
