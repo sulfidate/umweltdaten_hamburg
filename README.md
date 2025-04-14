@@ -10,12 +10,12 @@ Die Datenanalyse erfolgt in Python (Pandas, Matplotlib, Seaborn), die Visualisie
 
 ## 🔧 Technologien
 
-- **Python 3.10+**
+- **Python 3.12+**
   - pandas
   - matplotlib / seaborn
   - numpy
 - **Jupyter Notebooks**
-- **Tableau** (Public)
+- **Tableau** (Public) [https://public.tableau.com/app/profile/marcus.krause/vizzes]
 - **Quellen**: Open Data Hamburg, Umweltbundesamt, DWD, Statistisches Bundesamt
 
 ---
