@@ -1,3 +1,5 @@
+<img src="/img/image.png" alt="Umweltdaten Hamburg" width="200">
+
 # 🏙️ Umweltdaten Hamburg – Analyse & Visualisierung (2005–2025)
 
 ## Projektbeschreibung
@@ -21,13 +23,25 @@ Die Datenanalyse erfolgt in Python (Pandas, Matplotlib, Seaborn), die Visualisie
 ---
 
 ## 📁 Projektstruktur
-    hamburg_umweltdaten/
+    umweltdaten_hamburg/
     ├── data/                   # Rohdaten & externe Quellen
     ├── notebooks/              # EDA & Analyse-Notebooks
     ├── scripts/                # Reinigungs- und Export-Skripte
     ├── tableau_exports/        # Bereinigte CSVs für Tableau
     ├── reports/                # Exportierte Visualisierungen und Dashboards
     └── README.md
+---
+##  Umweltfaktoren die untersucht werden :
+
+><head></head>
+Umweltfaktor | Typische Einheit | Erläuterung
+-- | -- | --
+Luftqualität | µg/m³ (Mikrogramm pro Kubikmeter) | Für Feinstaub (PM10, PM2.5), Stickstoffdioxid (NO₂), Ozon (O₃), Schwefeldioxid.
+CO₂ | ppm (parts per million) | CO₂-Konzentration in der Luft.
+Lärm | dB(A) (Dezibel, A-bewertet) | A-Bewertung berücksichtigt das menschliche Hörempfinden.
+Wasserqualität | mg/l (Milligramm pro Liter), pH-Wert, NTU, µS/cm | Je nach Parameter: Nitrat, Phosphat, Trübung (NTU), Leitfähigkeit (µS/cm).
+Grünflächen | m² pro Einwohner / % der Stadtfläche / ha (Hektar) | Flächenanteil von Parks, Wald etc. je nach Maßstab und Vergleichsgröße.
+
 ---
 
 ## 📊 Ziel-Visualisierungen in Tableau
@@ -41,9 +55,9 @@ Die Datenanalyse erfolgt in Python (Pandas, Matplotlib, Seaborn), die Visualisie
 
 ## 📌 To Do
 
-- [x] Datenquellen sammeln
-- [x] Explorative Datenanalyse (EDA)
-- [x] Daten bereinigen & transformieren
+- [ ] Datenquellen sammeln
+- [ ] Explorative Datenanalyse (EDA)
+- [ ] Daten bereinigen & transformieren
 - [ ] Tableau-Dashboard finalisieren
 - [ ] Abschlussbericht schreiben
 
@@ -57,6 +71,6 @@ MIT License – feel free to use, adapt and build upon it.
 
 ## 🙋‍♀️ Kontakt
 
-Projekt von [Marcus Krause aka sulfidate.rockstar]  
+Projekt von Marcus Krause aka [sulfidate](https://github.com/sulfidate)  
 Fragen oder Feedback? Gerne per [GitHub Issues](https://github.com/sulfidate/repo/issues) oder via E-Mail: [dev@sulfidate.rocks]
 
