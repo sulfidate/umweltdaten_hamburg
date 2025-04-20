@@ -72,5 +72,5 @@ MIT License – feel free to use, adapt and build upon it.
 ## 🙋‍♀️ Kontakt
 
 Projekt von Marcus Krause aka [sulfidate](https://github.com/sulfidate)  
-Fragen oder Feedback? Gerne per [GitHub Issues](https://github.com/sulfidate/repo/issues) oder via E-Mail: [dev@sulfidate.rocks]
+Fragen oder Feedback? Gerne per [GitHub Issues](https://github.com/sulfidate/repo/issues) oder via E-Mail: [dev(at)sulfidate.rocks]
 
